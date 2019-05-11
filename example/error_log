@@ -1,0 +1,4 @@
+[17-Jan-2019 13:39:16 Asia/Hong_Kong] PHP Notice:  Undefined variable: countReco in /home/hth50w406jhr/public_html/arms/example/index.php on line 21
+[17-Jan-2019 13:39:16 Asia/Hong_Kong] PHP Warning:  current() expects parameter 1 to be array, null given in /home/hth50w406jhr/public_html/arms/example/index.php on line 21
+[17-Jan-2019 13:40:00 Asia/Hong_Kong] PHP Notice:  Undefined variable: countReco in /home/hth50w406jhr/public_html/arms/example/index.php on line 21
+[17-Jan-2019 13:40:00 Asia/Hong_Kong] PHP Warning:  current() expects parameter 1 to be array, null given in /home/hth50w406jhr/public_html/arms/example/index.php on line 21

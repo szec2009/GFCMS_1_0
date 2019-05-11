@@ -1,0 +1,8 @@
+[11-Jan-2019 05:29:27 UTC] PHP Warning:  date() expects at least 1 parameter, 0 given in /home/hth50w406jhr/public_html/arms/libs/api/fh/action/add/index.php on line 18
+[11-Jan-2019 06:02:38 UTC] PHP Warning:  date(): Invalid date.timezone value 'Asia/Hong_Kong	', we selected the timezone 'UTC' for now. in /home/hth50w406jhr/public_html/arms/libs/api/fh/action/add/index.php on line 19
+[11-Jan-2019 06:02:40 UTC] PHP Warning:  date(): Invalid date.timezone value 'Asia/Hong_Kong	', we selected the timezone 'UTC' for now. in /home/hth50w406jhr/public_html/arms/libs/api/fh/action/add/index.php on line 19
+[11-Jan-2019 06:02:40 UTC] PHP Warning:  date(): Invalid date.timezone value 'Asia/Hong_Kong	', we selected the timezone 'UTC' for now. in /home/hth50w406jhr/public_html/arms/libs/api/fh/action/add/index.php on line 19
+[11-Jan-2019 06:02:41 UTC] PHP Warning:  date(): Invalid date.timezone value 'Asia/Hong_Kong	', we selected the timezone 'UTC' for now. in /home/hth50w406jhr/public_html/arms/libs/api/fh/action/add/index.php on line 19
+[11-Jan-2019 06:02:41 UTC] PHP Warning:  date(): Invalid date.timezone value 'Asia/Hong_Kong	', we selected the timezone 'UTC' for now. in /home/hth50w406jhr/public_html/arms/libs/api/fh/action/add/index.php on line 19
+[11-Jan-2019 06:02:41 UTC] PHP Warning:  date(): Invalid date.timezone value 'Asia/Hong_Kong	', we selected the timezone 'UTC' for now. in /home/hth50w406jhr/public_html/arms/libs/api/fh/action/add/index.php on line 19
+[11-Jan-2019 06:02:41 UTC] PHP Warning:  date(): Invalid date.timezone value 'Asia/Hong_Kong	', we selected the timezone 'UTC' for now. in /home/hth50w406jhr/public_html/arms/libs/api/fh/action/add/index.php on line 19

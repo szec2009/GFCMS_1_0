@@ -1,0 +1,12 @@
+[22-Mar-2019 13:49:47 Asia/Hong_Kong] PHP Fatal error:  Uncaught Error: Class 'Mosquitto\Client' not found in /home/hth50w406jhr/public_html/arms/mqtt/examples/testwill.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/hth50w406jhr/public_html/arms/mqtt/examples/testwill.php on line 3
+[22-Mar-2019 13:50:23 Asia/Hong_Kong] PHP Fatal error:  Uncaught Error: Class 'Mosquitto\Client' not found in /home/hth50w406jhr/public_html/arms/mqtt/examples/testwill.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/hth50w406jhr/public_html/arms/mqtt/examples/testwill.php on line 5
+[22-Mar-2019 14:03:49 Asia/Hong_Kong] PHP Fatal error:  Uncaught Error: Class 'Mosquitto\Client' not found in /home/hth50w406jhr/public_html/arms/mqtt/examples/testwill.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/hth50w406jhr/public_html/arms/mqtt/examples/testwill.php on line 5
